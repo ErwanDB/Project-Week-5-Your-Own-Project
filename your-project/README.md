@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Play something good to me
+*Erwan de Boisjolly*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics - Barcelona - June 2020*
 
 ## Content
 - [Project Description](#project-description)
