@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Play somthing good to me
+# Play something good to me
 *Erwan de Boisjolly*
 
 *Data Analytics - Barcelona - June 2020*
