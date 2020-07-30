@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Play something good to me
+# Guitar Chords
 *Erwan de Boisjolly*
 
 *Data Analytics - Barcelona - June 2020*
@@ -14,25 +14,31 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+I started learning guitar on my own nearly two years ago. I was already playing some melodies on ukulele and I wanted to try to play those ukulele songs on guitar. I found some were very easy and others more complicated to play. Youtube is full of videos were people shows how to play various songs with only few chords. From this the below questions came in mind.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+- How many songs can be played with a beginner level ?
+- What chords do you need to learn ?
+- What is the proportion of songs that can played with those chords ?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+To conduct this project, I used a web site called [Ultimate-Guitar](https://www.ultimate-guitar.com) where you can find more than 600 000 guitar tabs. There are actually tabs for ukulele as well and other instruments. I personally use this website when I'm looking for a tab.
+I scraped from this website the "1 000 most popular songs of all times" with their artists, chords, rating and votes. Popularity is measured here by the number of "hits" (click) on the tab's page. 1 000 songs was the maximum display on the web page that could be scraped.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+After scraping the data from the web site, I looked at the frequencies of the chords in the songs. I then classified them in three levels of difficulty and assign a beginner, intermediate or advanced level to the songs.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+The project was planned and led using a [Trello](https://trello.com/b/BM3ag3la) bord.
 
-What does your repository look like? Explain your folder and file structure.
+The repository is composed of the following files:
+
+- The current README file
+- The cleaned data used for the analysis
+- A presentation with the main insights
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/ErwanDB/Project-Week-5-Your-Own-Project.git)  
+[Trello](https://trello.com/b/BM3ag3la)
