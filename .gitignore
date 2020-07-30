@@ -9,12 +9,15 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+
 # IPython
 profile_default/
 ipython_config.py
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
+
+Merge_Spotify_dataset.ipynb
 
 ### macOS ###
 # General
@@ -43,5 +46,20 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+### Images ###
+
+*.PNG
+*.jpeg
+*.jpg
+
+### Presentation ###
+
+Presentation.key
+
+### Datasets ###
+
+data_spotify.csv
+Chords.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks

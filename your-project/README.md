@@ -19,7 +19,7 @@ I started learning guitar on my own nearly two years ago. I was already playing 
 ## Questions & Hypotheses
 - How many songs can be played with a beginner level ?
 - What chords do you need to learn ?
-- What is the proportion of songs that can played with those chords ?
+- What is the proportion of songs that can be played with those chords ?
 
 ## Dataset
 To conduct this project, I used a web site called [Ultimate-Guitar](https://www.ultimate-guitar.com) where you can find more than 600 000 guitar tabs. There are actually tabs for ukulele as well and other instruments. I personally use this website when I'm looking for a tab.
@@ -38,7 +38,6 @@ The repository is composed of the following files:
 - A presentation with the main insights
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/ErwanDB/Project-Week-5-Your-Own-Project.git)  
 [Trello](https://trello.com/b/BM3ag3la)
