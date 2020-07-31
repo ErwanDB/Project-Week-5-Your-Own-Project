@@ -33,11 +33,21 @@ The project was planned and led using a [Trello](https://trello.com/b/BM3ag3la) 
 
 The repository is composed of the following files:
 
+- Datasets folder with 4 files:
+	1. Chords_encoded.csv: data scraped from the website with the chords encoded
+	2. Chords_clean.csv: cleaned data used for the analysis
+	3. chords.xlsx: chords export to ease data visualisation with Tableau
+	4. level.xlsx: figures summary by level
+- Notebooks folder with 4 notebooks:
+	1. data_scraping.ipynb: code for scraping
+	2. data_cleaning.ipynb: code for data cleaning and transformation
+	3. data_analysis.ipynb: exploration, analysis and insights
+	4. technical_paper.ipynb: other insights and potential way forward for the project
+- Presentation folder: contains a PDF presentation with the main insights.
 - The current README file
-- The cleaned data used for the analysis
-- A presentation with the main insights
 
 ## Links
 
 [Repository](https://github.com/ErwanDB/Project-Week-5-Your-Own-Project.git)  
 [Trello](https://trello.com/b/BM3ag3la)
+[Tableau](https://public.tableau.com/views/Chords/Dashboard1?:language=fr&:display_count=y&publish=yes&:origin=viz_share_link)
